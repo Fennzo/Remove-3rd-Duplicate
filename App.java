@@ -32,9 +32,6 @@ public class App
     	
     	
         char[] temp = str.toCharArray();
-        char[] temp1 = str.toCharArray();
-        temp = remove(5, temp1);
-        System.out.println(Arrays.toString(temp1) + temp1.length);
         int length = temp.length;
         for ( int i = 0; i < length-1; i++) {
         	int count = 0;
