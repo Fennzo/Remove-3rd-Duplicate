@@ -4,4 +4,4 @@ Sample run
 
 Enter str: aaabbbcccdddd
 
-aabbccdd
+Result: aabbccdd
