@@ -3,4 +3,5 @@
 Sample run
 
 Enter str: aaabbbcccdddd
+
 aabbccdd
